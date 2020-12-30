@@ -1,2 +1,2 @@
 # Probability-and-Statistics-
-probability and statistics 
+probability And statistics 
