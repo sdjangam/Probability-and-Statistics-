@@ -1,6 +1,6 @@
 # Probability-and-Statistics-
 
-# Probability and Statistics
+# Probability and Statistic
 
 Probability and statistics helps in understanding whether data is meaningful, including inference, testing, and other methods for analyzing patterns in data and using them to predict, understand, and improve results.
 
