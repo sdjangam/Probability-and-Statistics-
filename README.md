@@ -20,7 +20,7 @@ Introduction to Probability
 
 Events, Sample space, Simple Probability, Join Probability
 
-Mutually Exclusive events collectively exhaustive events marginal probability
+Mutually Exclusive event collectively exhaustive events marginal probability
 
 Addition Rule
 
