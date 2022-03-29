@@ -6,7 +6,7 @@ Probability and statistics helps in understanding whether data is meaningful, in
 
 We live in an uncertain and complex world, yet we continually have to make decisions in the present with uncertain future outcomes. To study, or not to study? To invest, or not to invest? To marry, or not to marry? This is what is captured mathematically using the notion of probability. Statistics, on the other hand, helps us analyze data sets, and correctly interpret results to make solid evidence-based decisions.
 
-In this module, I will discuss some very fundamental terms/concepts related to probability and statistics that often come across any literature related to Machine Learning and AI. Key topics include quantifying uncertainty with probability, descriptive statistics, point and interval estimation of means, central limit theorem, and the basics of hypothesis testing.
+In this modules, I will discuss some very fundamental terms/concepts related to probability and statistics that often come across any literature related to Machine Learning and AI. Key topics include quantifying uncertainty with probability, descriptive statistics, point and interval estimation of means, central limit theorem, and the basics of hypothesis testing.
 
 
 
